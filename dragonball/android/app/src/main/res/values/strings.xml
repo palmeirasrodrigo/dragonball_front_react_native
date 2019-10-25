@@ -1,0 +1,4 @@
+    <resources>
+    <string name="app_name">dragonball</string>
+    <string name="facebook_app_id">602329816948800</string> <string name="fb_login_protocol_scheme">fb602329816948800</string>
+    </resources>
